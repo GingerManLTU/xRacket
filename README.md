@@ -1,4 +1,4 @@
-# xRocket
+# xRacket
 
 Just a simple project to get current weather for your city!
 
