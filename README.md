@@ -17,7 +17,7 @@ npm install
 Create .env inside /server and fill file with info using .env.example. After that run
 
 ```sh
-npm install
+npm run dev
 ```
 
 ### Front-end setup
